@@ -18,6 +18,7 @@ dtbo-$(RPI_DT_OVERLAYS) += at86rf233.dtbo
 dtbo-$(RPI_DT_OVERLAYS) += bmp085_i2c-sensor.dtbo
 dtbo-$(RPI_DT_OVERLAYS) += boomberry-dac.dtbo
 dtbo-$(RPI_DT_OVERLAYS) += boomberry-digi.dtbo
+dtbo-$(RPI_DT_OVERLAYS) += diyaudio-pidsp.dtbo
 dtbo-$(RPI_DT_OVERLAYS) += dpi24.dtbo
 dtbo-$(RPI_DT_OVERLAYS) += dwc2.dtbo
 dtbo-$(RPI_DT_OVERLAYS) += dwc-otg.dtbo
